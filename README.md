@@ -15,15 +15,31 @@ Things I am using
 - Terminal: [iTerm2](https://iterm2.com/) (macOS) / GNOME Terminal (Linux)
 - CI/CD: [GitHub Actions](https://github.com/features/actions)
 
+## Tech Stack
+
+- TypeScript
+- NodeJS
+- React + VIte
+- Prisma ORM + SQL (MySQL with PlanetScale/ Postgres with NeonDB)
+- Netlify
+
 ## CLI
 
 - [`brew`](https://brew.sh) - Homebrew for Mac. The essential.
 - [`zsh`](https://zsh.org) - ZShell
   - config: [`dotfiles`](https://github.com/samhwang/dotfiles)
-- [`pnpm`](https://pnpm.io) - Prefered package managers for Node projects
+  - [`Oh My Zsh`](https://ohmyz.sh/) - ZSH Framework with a bunch of plugins
+  - [`Starship`](https://starship.rs/) - Terminal prompt theme
+  - [`bat`](https://github.com/sharkdp/bat) - Replacement for UNIX `bat`.
+  - [`exa`](https://github.com/ogham/exa) - Replacement for `ls`
+  - [`ripgrep`](https://github.com/BurntSushi/ripgrep) - Replacement for `grep`
+  - [`fnm`](https://github.com/Schniz/fnm) - Faster `nvm` Node Version Manager
+- [`pnpm`](https://pnpm.io) - Prefered package managers for Node projects.
+  - If all else fails, go back to [`npm`](https://www.npmjs.com/).
 - [`tsx`](https://github.com/esbuild-kit/tsx) - Run TypeScript files without compilation
 - [`rome`](https://rome.tools) - Linter and Formatter
-- [`vitest`](https://vitest.dev)
+- [`vitest`](https://vitest.dev) - Test runner. Integrates nicely with `vite`.
+  - Previously [`jest`](https://jestjs.io/).
 - Build tools for libraries and projects:
   - [`vite`](https://vitejs.dev) - For Frontend Projects
   - [`tsup`](https://github.com/egoist/tsup) - For smaller libs
@@ -51,14 +67,6 @@ Things I am using
   - CM Novatouch - BKE Redux Domes
   - GMMK Pro - NK Creams
   - RK84 Pro - All Clack switches for on the go work
-
-## Tech Stack
-
-- TypeScript
-- NodeJS
-- React + Vite
-- SQL (PlanetScale/NeonDB)
-- Netlify
 
 ## Starter Templates
 
