@@ -56,8 +56,12 @@ Things I am using
   - 4TB SSD
 - Personal laptop: Macbook Pro 2016 - i5 + 16GB RAM + 256GB SSD
 - Microphone: [Blue Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.html)
-- Headphones: [DROP + EPOS PC38X](https://drop.com/buy/drop-epos-pc38x-gaming-headset)
-- Camera: Fuji X100T
+- Headphones: 
+  - [DROP + EPOS PC38X](https://drop.com/buy/drop-epos-pc38x-gaming-headset)
+  - Airpods Pro 2
+- Camera:
+  - For stills: Fuji X100T
+  - Webcam: Logitech Streamcam
 - Mice:
   - Logitech MX Master 3 - for on the go work
   - Logitech G Pro Wireless
