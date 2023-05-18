@@ -17,11 +17,11 @@ Things I am using
 
 ## Tech Stack
 
-- TypeScript
-- NodeJS
-- React + VIte
-- Prisma ORM + SQL (MySQL with PlanetScale/ Postgres with NeonDB)
-- Netlify
+- [TypeScript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org)
+- [React](https://react.dev) + VIte
+- [Prisma]() + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
+- [Netlify](https://app.netlify.com)
 
 ## CLI
 
