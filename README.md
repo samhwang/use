@@ -21,7 +21,8 @@ Things I am using
 - [NodeJS](https://nodejs.org)
 - [React](https://react.dev) + [Vite](https://vitejs.dev)
 - [Prisma](https://prisma.io) + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
-- [Netlify](https://netlify.com)
+- [Netlify](https://netlify.com) for static site hosting & serverless functions via [Netlify Functions](https://www.netlify.com/products/functions) for personal projects.
+- [AWS Stack] for work projects.
 
 ## CLI
 
@@ -75,5 +76,5 @@ Things I am using
 ## Starter Templates
 
 - [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
-- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions
+- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-netlify-functions)
 - [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opiniated Node + TS starter template
