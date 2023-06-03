@@ -19,9 +19,9 @@ Things I am using
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org)
-- [React](https://react.dev) + VIte
-- [Prisma]() + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
-- [Netlify](https://app.netlify.com)
+- [React](https://react.dev) + [Vite](https://vitejs.dev)
+- [Prisma](https://prisma.io) + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
+- [Netlify](https://netlify.com)
 
 ## CLI
 
@@ -68,9 +68,9 @@ Things I am using
   - Logitech G Pro X Superlight
   - Logitech G502 Lightspeed
 - Keyboards:
+  - RK84 Pro - All Clack switches for on the go work
   - CM Novatouch - BKE Redux Domes
   - GMMK Pro - NK Creams
-  - RK84 Pro - All Clack switches for on the go work
 
 ## Starter Templates
 
