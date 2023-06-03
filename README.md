@@ -55,7 +55,6 @@ Things I am using
   - Airpods Pro 2
   - Logitech MX Master 3
   - RK84 Pro - All Clack switches
-
 - [Home rig](https://pcpartpicker.com/user/samhwang/saved/#view=FpJcTW):
   - Windows / macOS Hackintosh mini ITX build
   - i9 9900KF
