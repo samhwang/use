@@ -49,6 +49,13 @@ Things I am using
 
 ## Hardware
 
+- On the go work kit:
+  - Company laptop - whatever this is lmao
+  - Orbitkey Nest
+  - Airpods Pro 2
+  - Logitech MX Master 3
+  - RK84 Pro - All Clack switches
+
 - [Home rig](https://pcpartpicker.com/user/samhwang/saved/#view=FpJcTW):
   - Windows / macOS Hackintosh mini ITX build
   - i9 9900KF
@@ -58,7 +65,6 @@ Things I am using
 - Personal laptop: Macbook Pro 2016 - i5 + 16GB RAM + 256GB SSD
 - Microphone: Blue Yeti
 - Headphones/Earbuds/Speaker:
-  - Airpods Pro 2 - for on the go work
   - DROP+EPOS PC38X
   - AudioEngine A2+
 - Camera:
@@ -66,12 +72,10 @@ Things I am using
   - Webcam: Logitech Streamcam
 - Light: Logitech Litra Glow
 - Mice:
-  - Logitech MX Master 3 - for on the go work
   - Logitech G Pro Wireless
   - Logitech G Pro X Superlight
   - Logitech G502 Lightspeed
 - Keyboards:
-  - RK84 Pro - All Clack switches for on the go work
   - CM Novatouch - BKE Redux Domes
   - GMMK Pro - NK Creams
 - Chair: Herman Miller Embody
