@@ -22,7 +22,7 @@ Things I am using
 - [React](https://react.dev) + [Vite](https://vitejs.dev)
 - [Prisma](https://prisma.io) + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
 - [Netlify](https://netlify.com) for static site hosting & serverless functions via [Netlify Functions](https://www.netlify.com/products/functions) for personal projects.
-- [AWS Stack] for work projects.
+- [AWS Stack](https://aws.amazon.com/) for work projects, deployed and configured via [CDK](https://aws.amazon.com/cdk/).
 
 ## CLI
 
