@@ -13,7 +13,6 @@ Things I am using
 - Browser: [Chrome](https://www.google.com/intl/en_au/chrome/) (Windows/Linux), [Arc](https://arc.net/) (macOS)
 - Virtualization: [Docker](https://www.docker.com/)
 - Terminal: [iTerm2](https://iterm2.com/) (macOS) / GNOME Terminal (Linux)
-- CI/CD: [GitHub Actions](https://github.com/features/actions)
 
 ## Tech Stack
 
@@ -22,6 +21,7 @@ Things I am using
 - [React](https://react.dev) + [Vite](https://vitejs.dev)
 - [Prisma](https://prisma.io) + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
 - [Netlify](https://netlify.com) for static site hosting & serverless functions via [Netlify Functions](https://www.netlify.com/products/functions) for personal projects.
+- [GitHub Actions](https://github.com/features/actions) for CI/CD.
 - [AWS Stack](https://aws.amazon.com/) for work projects, deployed and configured via [CDK](https://aws.amazon.com/cdk/).
 
 ## CLI
@@ -56,13 +56,15 @@ Things I am using
   - Radeon 5700XT
   - 4TB SSD
 - Personal laptop: Macbook Pro 2016 - i5 + 16GB RAM + 256GB SSD
-- Microphone: [Blue Yeti](https://www.logitechg.com/en-us/products/streaming-gear/yeti-premium-usb-microphone.html)
-- Headphones: 
-  - [DROP + EPOS PC38X](https://drop.com/buy/drop-epos-pc38x-gaming-headset)
-  - Airpods Pro 2
+- Microphone: Blue Yeti
+- Headphones/Earbuds/Speaker:
+  - Airpods Pro 2 - for on the go work
+  - DROP+EPOS PC38X
+  - AudioEngine A2+
 - Camera:
   - For stills: Fuji X100T
   - Webcam: Logitech Streamcam
+- Light: Logitech Litra Glow
 - Mice:
   - Logitech MX Master 3 - for on the go work
   - Logitech G Pro Wireless
@@ -72,6 +74,8 @@ Things I am using
   - RK84 Pro - All Clack switches for on the go work
   - CM Novatouch - BKE Redux Domes
   - GMMK Pro - NK Creams
+- Chair: Herman Miller Embody
+- Desk: UpDown Desk Pro series with custom wood desktop
 
 ## Starter Templates
 
