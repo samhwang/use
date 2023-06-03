@@ -76,3 +76,4 @@ Things I am using
 
 - [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
 - [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions
+- [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opiniated Node + TS starter template
