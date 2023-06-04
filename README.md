@@ -13,6 +13,9 @@ Things I am using
 - Browser: [Chrome](https://www.google.com/intl/en_au/chrome/) (Windows/Linux), [Arc](https://arc.net/) (macOS)
 - Virtualization: [Docker](https://www.docker.com/)
 - Terminal: [iTerm2](https://iterm2.com/) (macOS) / GNOME Terminal (Linux)
+- Password Management: [1password](https://1password.com)
+- MFA: [Authy](https://authy.com) along with Yubikey 5
+- Vietnamese Keyboard: [OpenKey](https://open-key.org/)
 
 ## Tech Stack
 
@@ -55,6 +58,7 @@ Things I am using
   - Airpods Pro 2
   - Logitech MX Master 3
   - RK84 Pro - All Clack switches
+- Yubikey 5
 - [Home rig](https://pcpartpicker.com/user/samhwang/saved/#view=FpJcTW):
   - Windows / macOS Hackintosh mini ITX build
   - i9 9900KF
@@ -79,6 +83,7 @@ Things I am using
   - GMMK Pro - NK Creams
 - Chair: Herman Miller Embody
 - Desk: UpDown Desk Pro series with custom wood desktop
+- Monitor: XiaoMi Mi Curved Ultrawide Gaming Monitor 34"
 
 ## Starter Templates
 
