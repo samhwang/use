@@ -14,8 +14,8 @@ Things I am using
 - Virtualization: [Docker](https://www.docker.com/)
 - Terminal: [iTerm2](https://iterm2.com/) (macOS) / GNOME Terminal (Linux)
 - Password Management: [1password](https://1password.com)
-- MFA: [Authy](https://authy.com) along with Yubikey 5
-- Vietnamese Keyboard: [OpenKey](https://open-key.org/)
+- MFA: [Authy](https://authy.com) along with [Yubikey 5](https://www.yubico.com/products/yubikey-5-overview/)
+- Vietnamese Keyboard: [EVKey](https://github.com/lamquangminh/EVKey) 
 
 ## Tech Stack
 
@@ -89,4 +89,4 @@ Things I am using
 
 - [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
 - [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-netlify-functions)
-- [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opiniated Node + TS starter template
+- [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opinionated Node + TS starter template
