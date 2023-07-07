@@ -5,7 +5,7 @@ Things I am using
 ## IDE
 
 - Editor: [VS Code](https://code.visualstudio.com) / [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea), switching back and forth.
-- Theme: [Solarized Dark](https://ethanschoonover.com/solarized/)
+- Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 - Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## Software
