@@ -12,7 +12,7 @@ Things I am using
 
 - Browser: [Chrome](https://www.google.com/intl/en_au/chrome/) (Windows/Linux), [Arc](https://arc.net/) (macOS)
 - Virtualization: [Docker](https://www.docker.com/)
-- Terminal: [iTerm2](https://iterm2.com/) (macOS) / GNOME Terminal (Linux)
+- Terminal: [Warp](https://warp.dev) (macOS) / GNOME Terminal (Linux)
 - Password Management: [1password](https://1password.com)
 - MFA: [Authy](https://authy.com) along with [Yubikey 5](https://www.yubico.com/products/yubikey-5-overview/)
 - Vietnamese Keyboard: [EVKey](https://github.com/lamquangminh/EVKey) 
@@ -48,7 +48,7 @@ Things I am using
   - [`vite`](https://vitejs.dev) - For Frontend Projects
   - [`tsup`](https://github.com/egoist/tsup) - For smaller libs
   - [`rollup`](https://rollupjs.org/) - For fine-grained controls
-  - [`esbuild`](https://esbuild.github.io/) - Preferred JS/TS transpiler. Powers the above tools in a plugin
+  - [`esbuild`](https://esbuild.github.io/) - Preferred JS/TS transpiler. Powers the above tools.
 
 ## Hardware
 
@@ -88,5 +88,5 @@ Things I am using
 ## Starter Templates
 
 - [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
-- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-netlify-functions)
+- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-utils/tree/master/packages/trpc-netlify-functions)
 - [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opinionated Node + TS starter template
