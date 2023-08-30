@@ -41,7 +41,7 @@ Things I am using
 - [`pnpm`](https://pnpm.io) - Prefered package managers for Node projects.
   - If all else fails, go back to [`npm`](https://www.npmjs.com/).
 - [`tsx`](https://github.com/esbuild-kit/tsx) - Run TypeScript files without compilation
-- [`rome`](https://rome.tools) - Linter and Formatter
+- [`biome`](https://biomejs.dev) - Linter and Formatter
 - [`vitest`](https://vitest.dev) - Test runner. Integrates nicely with `vite`.
   - Previously [`jest`](https://jestjs.io/).
 - Build tools for libraries and projects:
