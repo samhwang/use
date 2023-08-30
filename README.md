@@ -4,7 +4,7 @@ Things I am using
 
 ## IDE
 
-- Editor: [VS Code](https://code.visualstudio.com) / [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea), switching back and forth.
+- Editor: [VS Code](https://code.visualstudio.com) / [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea) / [Neovim](https://neovim.io), switching back and forth.
 - Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 - Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
