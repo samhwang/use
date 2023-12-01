@@ -50,12 +50,6 @@ Things I am using
 
 ## Hardware
 
-- On the go work kit:
-  - Company laptop - whatever this is lmao
-  - Orbitkey Nest
-  - Airpods Pro 2
-  - Logitech MX Master 3
-  - RK84 Pro - All Clack switches
 - Yubikey 5
 - [Home rig](https://pcpartpicker.com/user/samhwang/saved/#view=FpJcTW):
   - Windows / macOS Hackintosh mini ITX build
@@ -66,19 +60,24 @@ Things I am using
 - Personal laptop: Macbook Pro 2016 - i5 + 16GB RAM + 256GB SSD
 - Microphone: Blue Yeti
 - Headphones/Earbuds/Speaker:
+  - Airpods Pro 2
   - DROP+EPOS PC38X
   - AudioEngine A2+
 - Camera:
   - For stills: Fuji X100T
   - Webcam: Logitech Streamcam
 - Light: Logitech Litra Glow
+- Desk Organizer: Orbitkey Nest
 - Mice:
   - Logitech G Pro Wireless
   - Logitech G Pro X Superlight
   - Logitech G502 Lightspeed
+  - Logitech MX Master 3
+  - Logitech MX Ergo
 - Keyboards:
   - CM Novatouch - BKE Redux Domes
-  - GMMK Pro - NK Creams
+  - GMMK Pro - NovelKeys x Kailh Creams
+  - RK84 Pro - Keyboard Treehouse All Clack switches
 - Chair: Herman Miller Embody
 - Desk: UpDown Desk Pro series with custom wood desktop
 - Monitor: XiaoMi Mi Curved Ultrawide Gaming Monitor 34"
