@@ -85,5 +85,5 @@ Things I am using
 ## Starter Templates
 
 - [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
-- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added backend powered by Netlify Functions via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-utils/tree/master/packages/trpc-netlify-functions)
+- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added type-safe backend powered by Netlify Functions and [tRPC](https://trpc.io) via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-utils/tree/master/packages/trpc-netlify-functions)
 - [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opinionated Node + TS starter template
