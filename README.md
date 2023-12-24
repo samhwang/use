@@ -22,7 +22,9 @@ Things I am using
 - [TypeScript](https://www.typescriptlang.org)
 - [NodeJS](https://nodejs.org)
 - [React](https://react.dev) + [Vite](https://vitejs.dev)
-- [Prisma](https://prisma.io) + SQL (MySQL with [PlanetScale](https://planetscale.com)/ Postgres with [NeonDB](https://neon.tech))
+- [Prisma](https://prisma.io) + SQL
+  - MySQL with [PlanetScale](https://planetscale.com)
+  - Postgres with [NeonDB](https://neon.tech)
 - [Netlify](https://netlify.com) for static site hosting & serverless functions via [Netlify Functions](https://www.netlify.com/products/functions) for personal projects.
 - [GitHub Actions](https://github.com/features/actions) for CI/CD.
 - [AWS Stack](https://aws.amazon.com) for work projects, deployed and configured via [CDK](https://aws.amazon.com/cdk).
