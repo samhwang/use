@@ -33,9 +33,10 @@ Things I am using
 - [`brew`](https://brew.sh) - Homebrew for Mac. The essential.
 - [`zsh`](https://zsh.org) - ZShell
   - config: [`dotfiles`](https://github.com/samhwang/dotfiles)
-  - [`Oh My Zsh`](https://ohmyz.sh) - ZSH Framework with a bunch of plugins
+  - [`Stow`](https://www.gnu.org/software/stow/) - Symlink farm manager to manage configs
+  - [`Sheldon`](https://sheldon.cli.rs/) - ZSH plugin manager
   - [`Starship`](https://starship.rs) - Terminal prompt theme
-  - [`bat`](https://github.com/sharkdp/bat) - Replacement for UNIX `bat`.
+  - [`bat`](https://github.com/sharkdp/bat) - Replacement for UNIX `cat`.
   - [`eza`](https://github.com/eza-community/eza) - Replacement for `ls`
   - [`ripgrep`](https://github.com/BurntSushi/ripgrep) - Replacement for `grep`
   - [`fnm`](https://github.com/Schniz/fnm) - Faster `nvm` Node Version Manager
