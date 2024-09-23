@@ -25,7 +25,6 @@ Things I am using
 - [Prisma](https://prisma.io) + SQL
   - Postgres with [NeonDB](https://neon.tech)
   - SQLite with [Turso](https://turso.tech/)
-- [Netlify](https://netlify.com) for static site hosting & serverless functions via [Netlify Functions](https://www.netlify.com/products/functions) for personal projects.
 - [GitHub Actions](https://github.com/features/actions) for CI/CD.
 - [AWS Stack](https://aws.amazon.com) for work projects, deployed and configured via [CDK](https://aws.amazon.com/cdk).
 
@@ -87,5 +86,4 @@ Things I am using
 ## Starter Templates
 
 - [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
-- [`fullstack-netlify-template`](https://github.com/samhwang/fullstack-netlify-template) - Basically the above template, with added type-safe backend powered by Netlify Functions and [tRPC](https://trpc.io) via [`trpc-netlify-functions`](https://github.com/samhwang/trpc-utils/tree/master/packages/trpc-netlify-functions)
 - [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opinionated Node + TS starter template
