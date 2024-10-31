@@ -41,8 +41,8 @@ Things I am using
   - [`ripgrep`](https://github.com/BurntSushi/ripgrep) - Replacement for `grep`
   - [`fnm`](https://github.com/Schniz/fnm) - Faster `nvm` Node Version Manager
 - [`pnpm`](https://pnpm.io) - Prefered package managers for Node projects.
-- [`tsx`](https://github.com/esbuild-kit/tsx) - Run TypeScript files without compilation
 - [`biome`](https://biomejs.dev) - Linter and Formatter
+- [`vite-node`](https://github.com/vitest-dev/vitest/tree/main/packages/vite-node) - Run TypeScript files without compilation
 - [`vitest`](https://vitest.dev) - Test runner. Integrates nicely with `vite`.
 - Build tools for libraries and projects:
   - [`vite`](https://vitejs.dev) - For Frontend Projects
