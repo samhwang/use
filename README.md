@@ -4,7 +4,7 @@ Things I am using
 
 ## IDE
 
-- Editor: [VS Code](https://code.visualstudio.com) / [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea) / [Neovim](https://neovim.io), switching back and forth.
+- Editor: [Zed](https://zed.dev) / [Neovim](https://neovim.io), switching back and forth.
 - Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
 - Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono)
 
@@ -12,7 +12,7 @@ Things I am using
 
 - Browser: [Chrome](https://www.google.com/intl/en_au/chrome) (Windows/Linux), [Arc](https://arc.net) (macOS)
 - Virtualization: [Docker](https://www.docker.com)
-- Terminal: [Warp](https://warp.dev) (macOS) / GNOME Terminal (Linux)
+- Terminal: [Wezterm](https://wezfurlong.org/wezterm/index.html)
 - Password Management: [1password](https://1password.com)
 - MFA: [Authy](https://authy.com) along with [Yubikey 5](https://www.yubico.com/products/yubikey-5-overview)
 - Vietnamese Keyboard: [EVKey](https://github.com/lamquangminh/EVKey)
