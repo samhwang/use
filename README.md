@@ -12,7 +12,7 @@ Things I am using
 
 - Browser: [Chrome](https://www.google.com/intl/en_au/chrome) (Windows/Linux), [Arc](https://arc.net) (macOS)
 - Virtualization: [Docker](https://www.docker.com)
-- Terminal: [Wezterm](https://wezfurlong.org/wezterm/index.html)
+- Terminal: [Ghostty](https://ghostty.org)
 - Password Management: [1password](https://1password.com)
 - MFA: [Authy](https://authy.com) along with [Yubikey 5](https://www.yubico.com/products/yubikey-5-overview)
 - Vietnamese Keyboard: [EVKey](https://github.com/lamquangminh/EVKey)
