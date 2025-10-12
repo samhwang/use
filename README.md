@@ -10,7 +10,7 @@ Things I am using
 
 ## Software
 
-- Browser: [Chrome](https://www.google.com/intl/en_au/chrome) (Windows/Linux), [Arc](https://arc.net) (macOS)
+- Browser: [Chrome](https://www.google.com/intl/en_au/chrome)
 - Virtualization: [Docker](https://www.docker.com)
 - Terminal: [Ghostty](https://ghostty.org)
 - Password Management: [1password](https://1password.com)
