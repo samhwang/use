@@ -63,7 +63,7 @@ Things I am using
 - Microphone: Blue Yeti
 - Headphones/Earbuds/Speaker:
   - Airpods Pro 2
-  - DROP+EPOS PC38X
+  - Beyerdynamic DT 990 Pro
   - AudioEngine A2+
 - Camera:
   - For stills: Fuji X100T
