@@ -80,6 +80,7 @@ Things I am using
   - CM Novatouch - BKE Redux Domes
   - GMMK Pro - NovelKeys x Kailh Creams
   - RK84 Pro - Keyboard Treehouse All Clack switches
+  - Ergodox EZ - Keyboard Treehouse Snagz switches
 - Chair: Herman Miller Embody
 - Desk: UpDown Desk Pro series with custom wood desktop
 - Monitor: XiaoMi Mi Curved Ultrawide Gaming Monitor 34"
