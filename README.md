@@ -69,7 +69,7 @@ Things I am using
   - For stills: Fuji X100T
   - Webcam: Logitech Streamcam
 - Light: Logitech Litra Glow
-- Desk Organizer: Orbitkey Nest
+- Desk Organizer: Orbitkey Tech Pouch
 - Mice:
   - Logitech G Pro Wireless
   - Logitech G Pro X Superlight
