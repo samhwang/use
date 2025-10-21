@@ -46,7 +46,7 @@ Things I am using
 - [`vitest`](https://vitest.dev) - Test runner. Integrates nicely with `vite`.
 - Build tools for libraries and projects:
   - [`vite`](https://vitejs.dev) - For Frontend Projects
-  - [`tsup`](https://github.com/egoist/tsup) - For smaller libs
+  - [`tsdown`](https://tsdown.dev) - For smaller libs
   - [`rollup`](https://rollupjs.org) - For fine-grained controls
   - [`esbuild`](https://esbuild.github.io) - Preferred JS/TS transpiler. Powers the above tools.
 
@@ -87,5 +87,4 @@ Things I am using
 
 ## Starter Templates
 
-- [`vite-starter-template`](https://github.com/samhwang/vite-starter-template) - Opinionated Vite + React + TS starter template
-- [`ts-starter-template`](https://github.com/samhwang/ts-starter-template) - Opinionated Node + TS starter template
+- [`starter-kit`](https://github.com/samhwang/starter-kit) - Opinionated Starter templates
