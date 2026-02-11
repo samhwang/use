@@ -49,6 +49,7 @@ Things I am using
   - [`tsdown`](https://tsdown.dev) - For smaller libs
   - [`rollup`](https://rollupjs.org) - For fine-grained controls
   - [`esbuild`](https://esbuild.github.io) - Preferred JS/TS transpiler. Powers the above tools.
+  - Currently experimenting with [`tsdown`](https://tsdown.dev) ,[`rolldown`](https://rolldown.rs) and [`oxc`](https://oxc.rs) to replace the toolstack above.
 
 ## Hardware
 
