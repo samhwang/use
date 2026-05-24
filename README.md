@@ -10,7 +10,7 @@ Things I am using
 
 ## Software
 
-- Browser: [Chrome](https://www.google.com/intl/en_au/chrome)
+- Browser: [Vivaldi](https://www.vivaldi.com)
 - Virtualization: [Docker](https://www.docker.com)
 - Terminal: [Ghostty](https://ghostty.org)
 - Password Management: [1password](https://1password.com)
@@ -41,25 +41,25 @@ Things I am using
   - [`ripgrep`](https://github.com/BurntSushi/ripgrep) - Replacement for `grep`
   - [`fnm`](https://github.com/Schniz/fnm) - Faster `nvm` Node Version Manager
 - [`pnpm`](https://pnpm.io) - Prefered package managers for Node projects.
-- [`biome`](https://biomejs.dev) - Linter and Formatter
-- [`vite-node`](https://github.com/vitest-dev/vitest/tree/main/packages/vite-node) - Run TypeScript files without compilation
+- [`oxlint`](https://oxc.rs/docs/guide/usage/linter.html) & [`oxfmt`](https://oxc.rs/docs/guide/usage/formatter.html)- Linter and Formatter
+- [`tsx`](https://tsx.hirok.io) - Run TypeScript files without compilation. Uses [`esbuild`](https://esbuild.github.io) underneath.
 - [`vitest`](https://vitest.dev) - Test runner. Integrates nicely with `vite`.
 - Build tools for libraries and projects:
   - [`vite`](https://vitejs.dev) - For Frontend Projects
   - [`tsdown`](https://tsdown.dev) - For smaller libs
   - [`rollup`](https://rollupjs.org) - For fine-grained controls
-  - [`esbuild`](https://esbuild.github.io) - Preferred JS/TS transpiler. Powers the above tools.
-  - Currently experimenting with [`tsdown`](https://tsdown.dev) ,[`rolldown`](https://rolldown.rs) and [`oxc`](https://oxc.rs) to replace the toolstack above.
+    - Looking forward to move to [`rolldown`](https://rolldown.rs) and/or [`vite-plus`](https://viteplus.dev).
 
 ## Hardware
 
 - Yubikey 5
 - [Home rig](https://pcpartpicker.com/user/samhwang/saved/#view=FpJcTW):
-  - Windows / macOS Hackintosh mini ITX build
+  - ~Windows / macOS Hackintosh~ mini ITX build - Now running CachyOS
   - i9 9900KF
   - 32GB RAM
   - Radeon 6900XT
   - 4TB SSD
+- Steam Deck LCD - Also running CachyOS handheld
 - Personal laptop: Macbook Pro 2016 - i5 + 16GB RAM + 256GB SSD
 - Microphone: Blue Yeti
 - Headphones/Earbuds/Speaker:
@@ -67,7 +67,7 @@ Things I am using
   - Beyerdynamic DT 990 Pro
   - AudioEngine A2+
 - Camera:
-  - For stills: Fuji X100T
+  - For stills: Nikon Zf
   - Webcam: Logitech Streamcam
 - Light: Logitech Litra Glow
 - Desk Organizer: Orbitkey Tech Pouch
