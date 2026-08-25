@@ -6,7 +6,7 @@ Things I am using
 
 - Editor: [Zed](https://zed.dev) / [Neovim](https://neovim.io), switching back and forth.
 - Theme: [Catppuccin](https://github.com/catppuccin/catppuccin)
-- Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono)
+- Font: [JetBrains Mono](https://www.jetbrains.com/lp/mono), [Monaspace](https://monaspace.githubnext.com) & [0xProto](https://github.com/0xType/0xProto)
 
 ## Software
 
@@ -15,7 +15,7 @@ Things I am using
 - Terminal: [Ghostty](https://ghostty.org)
 - Password Management: [1password](https://1password.com)
 - MFA: [Authy](https://authy.com) along with [Yubikey 5](https://www.yubico.com/products/yubikey-5-overview)
-- Vietnamese Keyboard: [EVKey](https://github.com/lamquangminh/EVKey)
+- Vietnamese Keyboard: [GoNhanh macOS](https://github.com/khaphanspace/gonhanh.org) & [fcitx5 bamboo on Linux](https://github.com/fcitx/fcitx5-bamboo)
 
 ## Tech Stack
 
@@ -47,44 +47,8 @@ Things I am using
 - Build tools for libraries and projects:
   - [`vite`](https://vitejs.dev) - For Frontend Projects
   - [`tsdown`](https://tsdown.dev) - For smaller libs
-  - [`rollup`](https://rollupjs.org) - For fine-grained controls
-    - Looking forward to move to [`rolldown`](https://rolldown.rs) and/or [`vite-plus`](https://viteplus.dev).
-
-## Hardware
-
-- Yubikey 5
-- [Home rig](https://pcpartpicker.com/user/samhwang/saved/#view=FpJcTW):
-  - ~Windows / macOS Hackintosh~ mini ITX build - Now running CachyOS
-  - i9 9900KF
-  - 32GB RAM
-  - Radeon 6900XT
-  - 4TB SSD
-- Steam Deck LCD - Also running CachyOS handheld
-- Personal laptop: Macbook Pro 2016 - i5 + 16GB RAM + 256GB SSD
-- Microphone: Blue Yeti
-- Headphones/Earbuds/Speaker:
-  - Airpods Pro 2
-  - Beyerdynamic DT 990 Pro
-  - AudioEngine A2+
-- Camera:
-  - For stills: Nikon Zf
-  - Webcam: Logitech Streamcam
-- Light: Logitech Litra Glow
-- Desk Organizer: Orbitkey Tech Pouch
-- Mice:
-  - Logitech G Pro Wireless
-  - Logitech G Pro X Superlight
-  - Logitech G502 Lightspeed
-  - Logitech MX Master 3
-  - Logitech MX Ergo
-- Keyboards:
-  - CM Novatouch - BKE Redux Domes
-  - GMMK Pro - NovelKeys x Kailh Creams
-  - RK84 Pro - Keyboard Treehouse All Clack switches
-  - Ergodox EZ - Keyboard Treehouse Snagz switches
-- Chair: Herman Miller Embody
-- Desk: UpDown Desk Pro series with custom wood desktop
-- Monitor: XiaoMi Mi Curved Ultrawide Gaming Monitor 34"
+  - [`rolldown`](https://rolldown.rs) - For fine-grained controls
+    - Looking forward to integrate [`vite-plus`](https://viteplus.dev).
 
 ## Starter Templates
 
